@@ -9,18 +9,12 @@ trigger:
 pool:
   name: Default
   demands:
-    - agent.name -equals VM4  # This must match the name you gave during config
+    - agent.name -equals VM4
 
 variables:
   buildConfiguration: 'Release'
 
 steps:
-- task: UseDotNet@2
-  inputs:
-    packageType: 'sdk'
-    version: '8.0.x'
-    installationPath: $(Agent.ToolsDirectory)/dotnet
-
 - task: DotNetCoreCLI@2
   inputs:
     command: 'restore'
