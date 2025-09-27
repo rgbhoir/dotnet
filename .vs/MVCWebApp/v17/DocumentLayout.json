@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\MVCWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6F4B1C-8A99-D534-B810-3EBC4FF80422}|MVCWebApp.csproj|c:\\projects\\mvcwebapp\\azure-pipelines.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3B6F4B1C-8A99-D534-B810-3EBC4FF80422}|MVCWebApp.csproj|solutionrelative:azure-pipelines.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "azure-pipelines.yml",
+              "DocumentMoniker": "C:\\projects\\MVCWebApp\\azure-pipelines.yml",
+              "RelativeDocumentMoniker": "azure-pipelines.yml",
+              "ToolTip": "C:\\projects\\MVCWebApp\\azure-pipelines.yml",
+              "RelativeToolTip": "azure-pipelines.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-27T15:42:02.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
