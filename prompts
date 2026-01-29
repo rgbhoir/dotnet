@@ -1,0 +1,10 @@
+https://github.com/MicrosoftLearning/mslearn-github-copilot-dev/raw/refs/heads/main/DownloadableCodeProjects/Downloads/AZ2007LabAppM2.zip
+
+@workspace describe this project
+@workspace #usages How is the ConsoleApp class used?
+@workspace /explain Explain the Program.cs file
+@workspace /explain Explain how the data access classes work
+
+
+
+@workspace Generate the contents of a README.md file for a code repository. Use "Library App" as the project title. The README file should include the following sections: Description, Project Structure, Key Classes and Interfaces, Usage, License. Format all sections as raw markdown. Use a bullet list with indents to represent the project structure. Do not include ".gitignore" or the ".github", "bin", and "obj" folders.
